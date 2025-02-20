@@ -65,7 +65,7 @@
   <a href="mailto:dohan36@cahlp.kr">
     <img src="https://img.shields.io/badge/dohan36@cahlp.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
-  <a href="mailto:leegm17@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>
+  <a href="mailto:leegm17@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dohan36@cahlp.kr/></a>
 </div>
 
 <p align="right">
