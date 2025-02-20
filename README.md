@@ -10,7 +10,7 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
 </div>
 <h3 align="left">🏆 GitHub Trophies 🏆</h3>
 <hr>
