@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DOHAN_CODE&fontSize=90">
+
 </p>
 <h3 align="left">🏅 State 🏅</h3>
 <hr>
 
 <div align="center">
-  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
 </div>
@@ -17,17 +18,20 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/lottie-1AAB89?style=for-the-badge&logo=lottie&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 <h3 align="left">🐍 AI 🐍</h3>
 <hr>
@@ -63,13 +67,13 @@
 
 <div align="center">
   <a href="mailto:dohan36@cahlp.kr">
-    <img src="https://img.shields.io/badge/dohan36@cahlp.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/dohan36@cahlp.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
-  <a href="mailto:leegm17@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dohan36@cahlp.kr/></a>
+  <a href="mailto:dohan36@cahlp.kr">
+    <img src="https://img.shields.io/badge/dohan36@cahlp.kr-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
 </div>
 
-<p align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaman&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/>
-  </a>
-</p>
+
+
+
